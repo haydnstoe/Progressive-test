@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#result {
+  font-weight: bold;
+  font-size: 18px;
+  color: #006400;
+}
